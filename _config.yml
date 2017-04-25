@@ -1,6 +1,6 @@
 ---
-title: Indivisible City
-timezone: UTC
+title: Indivisible Humboldt-Logan
+timezone: America/Chicago
 collections:
   posts:
     title: Posts
@@ -57,15 +57,15 @@ defaults:
   values:
     main-image: 
     mailchimp-form-embed: 
-subtitle: We are thousands of local citizens resisting the Trump agenda through civic
-  action.
-email: 
+subtitle: We are Humboldt Park and Logan Square citizens resisting the Trump agenda
+  through civic action.
+email: indivisiblehumboldtlogan@gmail.com
 baseurl: 
 url: 
-twitter_username: 
-facebook_username: 
-background-image: "/uploads/31773994174_c2e5706218_k.jpg"
-member-count: '100'
+twitter_username: IndivisibleHL
+facebook_username: IndivisibleHL
+background-image: "/uploads/17212118_10104824272670850_6936136626534609185_o.jpg"
+member-count: 950+
 footer-title: Spread the word. Help build a movement.
 markdown: kramdown
 gems:
@@ -76,4 +76,4 @@ paginate_path: "/blog/page:num/"
 exclude:
 - Gemfile
 - Gemfile.lock
-google_analytics: 
+google_analytics: UA-97993589-1
