@@ -76,4 +76,4 @@ paginate_path: "/blog/page:num/"
 exclude:
 - Gemfile
 - Gemfile.lock
-google_analytics: UA-97993589-1
+google_analytics: 
