@@ -1,5 +1,5 @@
 ---
-title: Congressman Danny K. Davis
+title: Congressman Danny Davis
 date: 2017-04-29 23:20:00 -05:00
 phone-numbers:
   DC Office: "(202) 225-5006"
